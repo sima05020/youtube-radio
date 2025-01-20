@@ -1,0 +1,2 @@
+# youtube-radio
+最低限の機能を備えた、DiscordのボイスチャットでYoutubeの音声を垂れ流すためのBot
